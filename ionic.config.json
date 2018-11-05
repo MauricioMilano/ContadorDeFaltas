@@ -1,0 +1,8 @@
+{
+  "name": "ContadorDeFaltas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "f8a268dd"
+}
